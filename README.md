@@ -1,0 +1,2 @@
+# distributionLock
+基于Redisson实现的分布式锁，通过注解来添加锁，同时支持将操作人id作为锁键值的一部分
